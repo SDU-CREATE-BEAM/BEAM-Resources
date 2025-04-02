@@ -1,4 +1,5 @@
 # ✅ PyOrbbecSDK V2 Setup Guide (Windows)
+Or you can just follow this:(https://orbbec.github.io/pyorbbecsdk/source/2_installation/installation.html)
 
 Steps to get the Orbbec Python SDK v2 running with depth examples.
 
