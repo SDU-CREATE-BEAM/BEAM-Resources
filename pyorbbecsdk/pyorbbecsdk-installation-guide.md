@@ -18,7 +18,7 @@ Steps to get the Orbbec Python SDK v2 running with depth examples.
 ## ✅ Confirm Tools Are Installed
 
 Run this in PowerShell:
-"""
+"""bash
 cmake --version
 conda --version
 """
