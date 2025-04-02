@@ -74,7 +74,6 @@ copy ..\\sdk\\lib\\win_x64\\*.dll ..
 Your folder structure should now include:
 - `pyorbbecsdk.cp38-win_amd64.pyd`
 - `OrbbecSDK.dll`
-- `live555.dll` (if needed)
 
 ---
 
