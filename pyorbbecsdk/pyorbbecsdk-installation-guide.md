@@ -1,4 +1,3 @@
-```
 # ✅ PyOrbbecSDK V2 Setup Guide (Windows)
 
 Steps to get the Orbbec Python SDK v2 running with depth examples.
